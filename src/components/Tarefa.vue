@@ -17,7 +17,7 @@ import { defineComponent, PropType } from "vue";
 import Cronometro from "./Cronometro.vue";
 import Box from "./Box.vue";
 export default defineComponent({
-  name: "Tarefa",
+  name: "Tarefa Multi",
   components: {
     Cronometro,
     Box,
